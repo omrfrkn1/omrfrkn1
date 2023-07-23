@@ -23,8 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrfrkn1&" alt="omrfrkn1" /></p>
 
-![snake gif](https://github.com/omrfrkn1/omrfrkn1/blob/output/github-contribution-grid-snake.gif)
-
-![snake gif](https://github.com/omrfrkn1/omrfrkn1/blob/output/github-contribution-grid-snake.gif)
 
 
